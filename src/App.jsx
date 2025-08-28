@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>        
-      <h1 className='font-bold bg-red-300'>basic setup</h1>
+      <h1 className='font-bold bg-red-300'>Currency App</h1>
     </>
   )
 }
